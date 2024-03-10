@@ -1,4 +1,3 @@
-# Here you can find all the practicals on the subject Processing and analysis of biomedical data.
-Each practical is placed in the corresponding branch
+# Here you can find all the datas for practicals on the subject Processing and analysis of biomedical data.
 Yevtushenko BS-25
 
